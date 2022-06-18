@@ -6,11 +6,13 @@ Nama Anggota Kelompok:
 
 # Studi Kasus
 Area Belanja merupakan sebuah platform jual beli online.
+
 Didalam website ini terdapat Admin yang dapat melakukan fungsi-fungsi berikut:
 - Melakukan login
 - Update profile
 - CRUD data kategori
 - CRUD data produk
+
 Sedangkan Customer dapat melakukan fungsi-fungsi berikut:
 - Melihat produk dan detail produk
 - Chat penjual
