@@ -46,3 +46,4 @@ Muhammad Fakhri Hasibuan :
 - style2.css
 
 # Link Hosting
+https://area-belanja-id.000webhostapp.com/
